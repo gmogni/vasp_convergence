@@ -1,0 +1,1 @@
+1. Place the Pseudopotential files of the elements contained in the material that you wish to study in the folder "Potentials" and name them in the format "POTCAR_XX", where XX is the element's periodic table symbol. Numerous examples are already provided in the folder "Potentials".   
